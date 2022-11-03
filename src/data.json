@@ -1,0 +1,67 @@
+{
+  "recipes": [
+    {
+      "name": "kalojam",
+      "slug": "kalojam",
+      "image": "kalojam1.jpg",
+      "id": 1,
+      "steps": [
+        {
+          "1": "add the dry ingredients in a large bowl"
+        },
+        {
+          "2": "Mix them properly with hand"
+        },
+        {
+          "3": "add milk slowly and make a soft dough that dosenot stick to hand"
+        },
+        {
+          "4": "Make small balls by rolling in the palm"
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "Milk powder",
+          "amount": "1 cup"
+        },
+        {
+          "name": "Flour",
+          "amount": "2 tbsp"
+        },
+        {
+          "name": "Baking powder",
+          "amount": "1/4 tsp"
+        },
+        {
+          "name": "Ghee",
+          "amount": "1 tsp"
+        }
+      ]
+    },
+    {
+      "name": "Jorda polao",
+      "slug": "jordapolao",
+      "image": "jorda1.jpg",
+      "id": 2,
+      "steps": [],
+      "ingredients": [
+        {
+          "name": "Rice",
+          "amount": "1 cup"
+        },
+        {
+          "name": "Orange juice",
+          "amount": "8 tbsp"
+        },
+        {
+          "name": "nuts",
+          "amount": "1/4 cup"
+        },
+        {
+          "name": "Ghee",
+          "amount": "1 tbsp"
+        }
+      ]
+    }
+  ]
+}

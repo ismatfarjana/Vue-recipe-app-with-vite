@@ -91,6 +91,451 @@
           "amount": "1 tbsp"
         }
       ]
+    },
+    {
+      "name": "Mango milkshake",
+      "slug": "mango_milkshake",
+      "image": "mango_milkshake.jpg",
+      "id": 3,
+      "steps": [
+        {
+          "number": "1",
+          "details": "add the dry ingredients in a large bowl"
+        },
+        {
+          "number": "2",
+          "details": "Mix them properly with hand"
+        },
+        {
+          "number": "3",
+          "details": "add milk slowly and make a soft dough that dosenot stick to hand"
+        },
+        {
+          "number": "4",
+          "details": "Make small balls by rolling in the palm"
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "Milk powder",
+          "slug": "milk-powder",
+          "amount": "1 cup"
+        },
+        {
+          "name": "Mango slice",
+          "slug": "MangoSlice",
+          "amount": "2 tbsp"
+        },
+        {
+          "name": "Suger",
+          "slug": "Suger",
+          "amount": "2 tbsp"
+        }
+      ]
+    },
+    {
+      "name": "Jorda polao",
+      "slug": "jordapolao",
+      "image": "jorda1.jpg",
+      "id": 2,
+      "steps": [
+        {
+          "number": "1",
+          "details": "....."
+        },
+        {
+          "number": "2",
+          "details": "....."
+        },
+        {
+          "number": "3",
+          "details": "....."
+        },
+        {
+          "number": "4",
+          "details": "....."
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "Rice",
+          "slug": "Rice",
+          "amount": "1 cup"
+        },
+        {
+          "name": "Orange juice",
+          "slug": "juice",
+          "amount": "8 tbsp"
+        },
+        {
+          "name": "nuts",
+          "slug": "nuts",
+          "amount": "1/4 cup"
+        },
+        {
+          "name": "Ghee",
+          "slug": "Ghee",
+          "amount": "1 tbsp"
+        }
+      ]
+    },
+    {
+      "name": "kalojam",
+      "slug": "kalojam",
+      "image": "kalojam1.jpg",
+      "id": 1,
+      "steps": [
+        {
+          "number": "1",
+          "details": "add the dry ingredients in a large bowl"
+        },
+        {
+          "number": "2",
+          "details": "Mix them properly with hand"
+        },
+        {
+          "number": "3",
+          "details": "add milk slowly and make a soft dough that dosenot stick to hand"
+        },
+        {
+          "number": "4",
+          "details": "Make small balls by rolling in the palm"
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "Milk powder",
+          "slug": "milk-powder",
+          "amount": "1 cup"
+        },
+        {
+          "name": "Flour",
+          "slug": "Flour",
+          "amount": "2 tbsp"
+        },
+        {
+          "name": "Baking powder",
+          "slug": "baking-powder",
+          "amount": "1/4 tsp"
+        },
+        {
+          "name": "Ghee",
+          "slug": "Ghee",
+          "amount": "1 tsp"
+        }
+      ]
+    },
+    {
+      "name": "Jorda polao",
+      "slug": "jordapolao",
+      "image": "jorda1.jpg",
+      "id": 2,
+      "steps": [
+        {
+          "number": "1",
+          "details": "....."
+        },
+        {
+          "number": "2",
+          "details": "....."
+        },
+        {
+          "number": "3",
+          "details": "....."
+        },
+        {
+          "number": "4",
+          "details": "....."
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "Rice",
+          "slug": "Rice",
+          "amount": "1 cup"
+        },
+        {
+          "name": "Orange juice",
+          "slug": "juice",
+          "amount": "8 tbsp"
+        },
+        {
+          "name": "nuts",
+          "slug": "nuts",
+          "amount": "1/4 cup"
+        },
+        {
+          "name": "Ghee",
+          "slug": "Ghee",
+          "amount": "1 tbsp"
+        }
+      ]
+    },
+    {
+      "name": "Mango milkshake",
+      "slug": "mango_milkshake",
+      "image": "mango_milkshake.jpg",
+      "id": 3,
+      "steps": [
+        {
+          "number": "1",
+          "details": "add the dry ingredients in a large bowl"
+        },
+        {
+          "number": "2",
+          "details": "Mix them properly with hand"
+        },
+        {
+          "number": "3",
+          "details": "add milk slowly and make a soft dough that dosenot stick to hand"
+        },
+        {
+          "number": "4",
+          "details": "Make small balls by rolling in the palm"
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "Milk powder",
+          "slug": "milk-powder",
+          "amount": "1 cup"
+        },
+        {
+          "name": "Mango slice",
+          "slug": "MangoSlice",
+          "amount": "2 tbsp"
+        },
+        {
+          "name": "Suger",
+          "slug": "Suger",
+          "amount": "2 tbsp"
+        }
+      ]
+    },
+    {
+      "name": "Jorda polao",
+      "slug": "jordapolao",
+      "image": "jorda1.jpg",
+      "id": 2,
+      "steps": [
+        {
+          "number": "1",
+          "details": "....."
+        },
+        {
+          "number": "2",
+          "details": "....."
+        },
+        {
+          "number": "3",
+          "details": "....."
+        },
+        {
+          "number": "4",
+          "details": "....."
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "Rice",
+          "slug": "Rice",
+          "amount": "1 cup"
+        },
+        {
+          "name": "Orange juice",
+          "slug": "juice",
+          "amount": "8 tbsp"
+        },
+        {
+          "name": "nuts",
+          "slug": "nuts",
+          "amount": "1/4 cup"
+        },
+        {
+          "name": "Ghee",
+          "slug": "Ghee",
+          "amount": "1 tbsp"
+        }
+      ]
+    },
+    {
+      "name": "kalojam",
+      "slug": "kalojam",
+      "image": "kalojam1.jpg",
+      "id": 1,
+      "steps": [
+        {
+          "number": "1",
+          "details": "add the dry ingredients in a large bowl"
+        },
+        {
+          "number": "2",
+          "details": "Mix them properly with hand"
+        },
+        {
+          "number": "3",
+          "details": "add milk slowly and make a soft dough that dosenot stick to hand"
+        },
+        {
+          "number": "4",
+          "details": "Make small balls by rolling in the palm"
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "Milk powder",
+          "slug": "milk-powder",
+          "amount": "1 cup"
+        },
+        {
+          "name": "Flour",
+          "slug": "Flour",
+          "amount": "2 tbsp"
+        },
+        {
+          "name": "Baking powder",
+          "slug": "baking-powder",
+          "amount": "1/4 tsp"
+        },
+        {
+          "name": "Ghee",
+          "slug": "Ghee",
+          "amount": "1 tsp"
+        }
+      ]
+    },
+    {
+      "name": "Jorda polao",
+      "slug": "jordapolao",
+      "image": "jorda1.jpg",
+      "id": 2,
+      "steps": [
+        {
+          "number": "1",
+          "details": "....."
+        },
+        {
+          "number": "2",
+          "details": "....."
+        },
+        {
+          "number": "3",
+          "details": "....."
+        },
+        {
+          "number": "4",
+          "details": "....."
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "Rice",
+          "slug": "Rice",
+          "amount": "1 cup"
+        },
+        {
+          "name": "Orange juice",
+          "slug": "juice",
+          "amount": "8 tbsp"
+        },
+        {
+          "name": "nuts",
+          "slug": "nuts",
+          "amount": "1/4 cup"
+        },
+        {
+          "name": "Ghee",
+          "slug": "Ghee",
+          "amount": "1 tbsp"
+        }
+      ]
+    },
+    {
+      "name": "Mango milkshake",
+      "slug": "mango_milkshake",
+      "image": "mango_milkshake.jpg",
+      "id": 3,
+      "steps": [
+        {
+          "number": "1",
+          "details": "add the dry ingredients in a large bowl"
+        },
+        {
+          "number": "2",
+          "details": "Mix them properly with hand"
+        },
+        {
+          "number": "3",
+          "details": "add milk slowly and make a soft dough that dosenot stick to hand"
+        },
+        {
+          "number": "4",
+          "details": "Make small balls by rolling in the palm"
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "Milk powder",
+          "slug": "milk-powder",
+          "amount": "1 cup"
+        },
+        {
+          "name": "Mango slice",
+          "slug": "MangoSlice",
+          "amount": "2 tbsp"
+        },
+        {
+          "name": "Suger",
+          "slug": "Suger",
+          "amount": "2 tbsp"
+        }
+      ]
+    },
+    {
+      "name": "Jorda polao",
+      "slug": "jordapolao",
+      "image": "jorda1.jpg",
+      "id": 2,
+      "steps": [
+        {
+          "number": "1",
+          "details": "....."
+        },
+        {
+          "number": "2",
+          "details": "....."
+        },
+        {
+          "number": "3",
+          "details": "....."
+        },
+        {
+          "number": "4",
+          "details": "....."
+        }
+      ],
+      "ingredients": [
+        {
+          "name": "Rice",
+          "slug": "Rice",
+          "amount": "1 cup"
+        },
+        {
+          "name": "Orange juice",
+          "slug": "juice",
+          "amount": "8 tbsp"
+        },
+        {
+          "name": "nuts",
+          "slug": "nuts",
+          "amount": "1/4 cup"
+        },
+        {
+          "name": "Ghee",
+          "slug": "Ghee",
+          "amount": "1 tbsp"
+        }
+      ]
     }
   ]
 }

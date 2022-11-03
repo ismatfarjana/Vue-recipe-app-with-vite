@@ -1,18 +1,24 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import HomeView from '@/views/HomeView.vue';
 import AboutView from '@/views/AboutView.vue';
-import AllRecipesView from '@/views/AllRecipesView.vue'
+import AllRecipesView from '@/views/AllRecipesView.vue';
+import AddRecipe from '@/views/AddRecipe.vue'
 
 const routes = [
   {
     path: '/',
     name: 'home',
-    component: HomeView,
+    component: AllRecipesView,
   },
   {
     path: '/about',
     name: 'about',
     component: AboutView,
+  },
+  {
+    path: '/addRecipe',
+    name: 'addRecipe',
+    component: AddRecipe,
   },
   {
     path: '/allRecipes',

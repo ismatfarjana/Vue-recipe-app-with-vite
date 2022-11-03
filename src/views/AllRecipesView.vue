@@ -8,7 +8,7 @@
         :to="{ name: 'recipe.show', params: { id: recipe.id, slug: recipe.slug } }"
       >
       <h2>{{ recipe.name }}</h2>
-      <img :src="`/images/${recipe.image}`" :alt="recipe.name" />
+      <img :src="`/images/${recipe.image}`" :alt="recipe.name" width="200" height="200" gravity="auto" crop="scale"/>
       </RouterLink>
     </div>
   </main>
@@ -28,13 +28,13 @@ export default {
 </script>
 
 <style scoped>
-/* main {
-  text-align: left;
-} */
+main {
+  padding-top: 30px;
+}
 .recipes {
   display: flex;
   flex-flow: row;
-  
+  flex-wrap: wrap;
 }
 .recipes h2 {
   text-align: left;

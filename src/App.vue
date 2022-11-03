@@ -21,6 +21,9 @@ export default {
 </script>
 
 <style>
+.container {
+  padding-top: 2rem;
+}
 .logo {
   height: 6em;
   padding: 1.5em;
@@ -34,13 +37,23 @@ export default {
 }
 .wrapper {
   display: flex;
-  /* place-items: flex-start; */
+  align-items: center;
   flex-wrap: wrap;
+  background-color: rgb(4, 63, 43);
+  padding: 1rem;
   width: 100%;
+  left: 0;
+  top: 0;
+    position: fixed;
+    /* z-index: 1000; */
 }
+
+
 nav a {
   display: inline-block;
+  color:beige;
   padding: 0 1rem;
+  margin: 0 1rem;
   border-left: 1px solid var(--color-border);
 }
 nav a.router-link-exact-active {

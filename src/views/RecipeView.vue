@@ -66,6 +66,7 @@ export default {
 .recipe {
   display: flex;
   flex-flow: row;
+  padding-top: 1rem;
 }
 .recipe-body {
   text-align: left;
